@@ -1,0 +1,284 @@
+{
+  "profile": {
+    "name": "Manikyam Golla",
+    "role": "Looking for an Internship or Entry-Level Role — Available Now",
+    "tagline": "From ideas to interactive web experiences.",
+    "location": "Andhra Pradesh, India",
+    "email": "manikyamgolla12@gmail.com",
+    "phone": "+91 9381825879",
+    "resumeUrl": "/resume.pdf",
+    "resumePreviewUrl": "https://docs.google.com/document/d/1tusH_p5TDvf2XiPxlUDeyYMQlQOncMBZ/edit?usp=sharing&ouid=114526936835089432434&rtpof=true&sd=true",
+    "bio": [
+      "I'm a final-year B.Tech student in Artificial Intelligence & Machine Learning at Vijaya Institute of Technology for Women, graduating in 2027. I care about building things that actually work end-to-end — from an idea to a real interface someone can use.",
+      "My work spans the fundamentals of supervised and unsupervised learning and basic NLP, plus web development with Python, HTML, and CSS. I've backed that up with certifications from Infosys, Intel, Google, and IBM.",
+      "I learn fastest by shipping. Several projects in, including an IoT smart-irrigation system that won a Project Expo and two hackathon-winning web apps, I'm looking for an internship or entry-level role where I can keep building."
+    ],
+    "highlights": [
+      { "label": "B.Tech AI & ML", "detail": "4th Year, 2023–2027" },
+      { "label": "5+ Projects Shipped", "detail": "ML, IoT & web apps" },
+      { "label": "2x Hackathon Winner", "detail": "Gradify & Give Hope" },
+      { "label": "Project Expo Winner", "detail": "Hydro Hive (IoT)" },
+      { "label": "9+ Certifications", "detail": "Infosys, Intel, Google, IBM" },
+      { "label": "Continuous Learner", "detail": "Always shipping something new" }
+    ]
+  },
+  "socials": {
+    "github": "https://github.com/manikyamgolla",
+    "linkedin": "https://linkedin.com/in/manikyam-golla-850422346",
+    "email": "mailto:manikyamgolla12@gmail.com"
+  },
+  "education": [
+    {
+      "school": "Vijaya Institute of Technology for Women",
+      "location": "Enikepad, Andhra Pradesh",
+      "period": "2023 – 2027",
+      "detail": "B.Tech, Artificial Intelligence & Machine Learning · Currently 4th Year · GPA 7.8/10 (5 semesters completed)"
+    },
+    {
+      "school": "Narayana Junior College",
+      "location": "Vijayawada, Andhra Pradesh",
+      "period": "2021 – 2023",
+      "detail": "Intermediate (MPC) · Aggregate 859"
+    },
+    {
+      "school": "Narayana High School",
+      "location": "Gannavaram, Andhra Pradesh",
+      "period": "2016 – 2022",
+      "detail": "SSC · Aggregate 594"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Hydro Hive",
+      "detail": "Recognized for developing an IoT-based Smart Irrigation System showcased at a Project Expo.",
+      "previewUrl": "https://drive.google.com/file/d/11yME6NBoFpsrQMtbLvm3nxnBrA74tScK/preview"
+    },
+    {
+      "name": "Gradify",
+      "detail": "Developed a GPA & CGPA Calculator application during a hackathon, demonstrating rapid prototyping and problem-solving skills.",
+      "previewUrl": "https://drive.google.com/file/d/1rBHDBRtQf73qQFBOVLwkQOmw4cfjXZfE/preview"
+    },
+    {
+      "name": "Give Hope",
+      "detail": "Developed a donation platform during a hackathon focused on connecting donors with beneficiaries, earning recognition for social impact innovation.",
+      "previewUrl": "https://drive.google.com/file/d/1ikFeU9qpwz2jy7Rg2J2IaFblBovjHTsz/preview"
+    }
+  ],
+  "certifications": [
+    { "name": "Artificial Intelligence Foundation", "issuer": "Infosys", "date": "Aug 2024", "previewUrl": "https://drive.google.com/file/d/1FgGmBb5ZXRRcgwqKl3D5cFooyEuqzqZV/preview" },
+    { "name": "Artificial Intelligence Primer", "issuer": "Infosys", "date": "Aug 2024", "previewUrl": "https://drive.google.com/file/d/1ywmEc_tpB8Oh66kxAyyE8Ck3ZgKSW6fd/preview" },
+    { "name": "Artificial Intelligence Aware", "issuer": "Intel", "date": "Jul 2024", "previewUrl": "https://drive.google.com/file/d/1JNq3db2Kg8ebOraPQLb7CMTctjBijLH5/preview" },
+    { "name": "Artificial Intelligence Appreciate", "issuer": "Intel", "date": "Jul 2024", "previewUrl": "https://drive.google.com/file/d/1faZ--SG_8pPtDoyp8aWxiwsJdH4bk3bs/preview" },
+    { "name": "Google Android Developer", "issuer": "EDU Skills", "date": "Jul – Sep 2024", "previewUrl": "https://drive.google.com/file/d/1R0667umHtJf3ytd6yKR_h4lRzoc8Tamr/preview" },
+    { "name": "Google AI-ML Virtual Program", "issuer": "EDU Skills", "date": "Oct – Dec 2024", "previewUrl": "https://drive.google.com/file/d/1S6MJ5TGD_IaWqIeP7fnh-PJtKZPM0qcB/preview" },
+    { "name": "Build My First Chatbot", "issuer": "IBM", "date": "Feb 2025", "previewUrl": "https://drive.google.com/file/d/1TiopohWc_P_COYZonh4V5EzAKsW54zI4/preview" },
+    { "name": "Introduction to HTML", "issuer": "Coursera", "date": null, "previewUrl": "https://drive.google.com/file/d/1hzWJp8uNUwskuJTt7fl3SWx6m6s4gNKe/preview" },
+    { "name": "The Joy of Computing using Python", "issuer": "NPTEL", "date": null, "previewUrl": "https://drive.google.com/file/d/1lYqjR9cyEDiTgnMshg7s8t64ufbBDh5D/preview" },
+    { "name": "Human Computer Interaction", "issuer": "NPTEL", "date": null, "previewUrl": "https://drive.google.com/file/d/19IpsWZSJk2yrKgzr2bCGeXlxy45ZjNV9/preview" },
+    { "name": "Internship Certificate", "issuer": "Industry Internship", "date": null, "previewUrl": "https://drive.google.com/file/d/1EoCB8YisU31DxOJ9TzOuZAeIe82AetBN/preview" }
+  ],
+  "languages": [
+    { "name": "Telugu", "level": "Native / Bilingual" },
+    { "name": "English", "level": "Conversational" },
+    { "name": "Hindi", "level": "Conversational" }
+  ],
+  "skills": [
+    {
+      "category": "Programming",
+      "items": [
+        { "name": "Python", "level": "Daily driver", "years": 2 },
+        { "name": "HTML & CSS", "level": "Proficient", "years": 2 }
+      ]
+    },
+    {
+      "category": "Machine Learning",
+      "items": [
+        { "name": "Supervised & Unsupervised Learning", "level": "Theory completed", "years": 0 },
+        { "name": "Basic NLP (TF-IDF, text preprocessing)", "level": "Theory completed", "years": 0 },
+        { "name": "Model Evaluation", "level": "Theory completed", "years": 0 }
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        { "name": "Git & GitHub", "level": "Daily driver", "years": 2 },
+        { "name": "Jupyter / Google Colab", "level": "Daily driver", "years": 2 },
+        { "name": "VS Code", "level": "Daily driver", "years": 2 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "fake-news-detection",
+      "name": "Fake News Detection Using Machine Learning",
+      "category": "Machine Learning",
+      "status": "Completed",
+      "period": "May – Jul 2025",
+      "tagline": "An NLP classifier that flags news articles as authentic or fabricated, deployed with an interactive UI.",
+      "repo": "https://github.com/Council-for-Skills-and-Competencies/Fake-News-Detection",
+      "demo": "https://council-for-skills-and-competencies.github.io/Fake-News-Detection/",
+      "tech": ["Python", "Scikit-Learn", "NLTK", "Pandas", "NumPy", "Streamlit"],
+      "features": [
+        "Article classification (real vs. fake)",
+        "Text preprocessing & stemming pipeline",
+        "TF-IDF feature extraction",
+        "Interactive Streamlit web UI"
+      ],
+      "overview": [
+        "Misinformation spreads faster than most people can fact-check it. I wanted hands-on experience with a full NLP classification pipeline, from raw text to a usable interface.",
+        "The pipeline cleans and stems article text, extracts TF-IDF features, and feeds them into a trained classifier. I deployed it behind a Streamlit UI so anyone can paste in an article and get an instant read."
+      ],
+      "workflow": ["Data collection", "Text cleaning & stemming", "TF-IDF vectorization", "Model training & evaluation", "Streamlit deployment"],
+      "challenges": [
+        "Noisy, inconsistent article text across sources",
+        "Balancing precision vs. recall so the classifier isn't overconfident on ambiguous articles"
+      ],
+      "learnings": [
+        "How much preprocessing quality affects a classical NLP pipeline's ceiling",
+        "TF-IDF plus a well-tuned classifier is a strong, lightweight baseline before reaching for deep learning"
+      ],
+      "results": "Classifier reliably distinguishes clear-cut fake vs. real articles in testing, deployed as an interactive demo.",
+      "future": ["BERT-based model for nuanced cases", "Multilingual support", "REST API", "Cloud deployment"]
+    },
+    {
+      "slug": "gradify",
+      "name": "Gradify — GPA & CGPA Calculator",
+      "category": "Web App",
+      "status": "Hackathon Winner",
+      "period": "Feb 2026",
+      "tagline": "A precision-driven GPA/CGPA calculator that streamlines academic performance tracking for students.",
+      "repo": "https://github.com/manikyamgolla/Gradify",
+      "demo": "https://gradify-sgk.caffeine.xyz/",
+      "tech": ["HTML", "CSS", "JavaScript", "Python"],
+      "features": [
+        "Semester GPA calculation",
+        "Cumulative CGPA tracking",
+        "Clean, responsive interface",
+        "Instant, client-side calculation"
+      ],
+      "overview": [
+        "Most students track GPA in scattered spreadsheets. Gradify was built at a hackathon to give students one clean, fast tool for both semester and cumulative GPA tracking.",
+        "It won the hackathon on the strength of its usability — simple inputs, instant accurate output, and an interface that doesn't get in the way."
+      ],
+      "workflow": ["Requirement scoping", "UI design", "Calculation logic", "Testing", "Hackathon demo"],
+      "challenges": [
+        "Handling varied university grading scales in one flexible calculation model",
+        "Building a polished UI under hackathon time pressure"
+      ],
+      "learnings": [
+        "How to scope a small tool tightly enough to finish and polish it in a time-boxed event",
+        "The outsized value of a clean UI when judges are comparing many similar tools"
+      ],
+      "results": "Won its category at the hackathon; used by classmates for real semester tracking.",
+      "future": ["Student record database", "Login & saved history", "Downloadable performance reports"]
+    },
+    {
+      "slug": "give-now",
+      "name": "Give Hope — Donation Platform",
+      "category": "Donation Platform",
+      "status": "Hackathon Winner",
+      "period": "Feb 2026",
+      "tagline": "A web platform connecting donors with verified charitable causes for transparent, secure giving.",
+      "repo": "https://github.com/manikyamgolla/Give-Now",
+      "demo": "https://give-now-aid.base44.app",
+      "tech": ["React", "Node.js", "Express", "MongoDB"],
+      "features": [
+        "Donation listings by cause",
+        "Verified NGO profiles",
+        "Secure checkout flow",
+        "User accounts for donation history"
+      ],
+      "overview": [
+        "Trust is the biggest barrier to online giving. Give Hope was built to connect donors directly with verified charities, with transparency built into every listing.",
+        "The stack is a standard MERN setup — React frontend, Express/Node backend, MongoDB for storage — chosen to move fast for the hackathon while staying production-realistic."
+      ],
+      "workflow": ["Problem scoping", "NGO verification model", "Frontend build (React)", "Backend & database (Node/Express/MongoDB)", "Hackathon demo"],
+      "challenges": [
+        "Modeling NGO verification in a way that's trustworthy without a real-world verification pipeline behind it yet",
+        "Building a secure-feeling checkout flow within a hackathon timeframe"
+      ],
+      "learnings": [
+        "End-to-end MERN development under real time pressure",
+        "How much UI trust signals (verification badges, transparency) matter for donation products specifically"
+      ],
+      "results": "Won its hackathon category for addressing a real trust gap in online donation platforms.",
+      "future": ["Payment gateway integration", "Recurring/subscription donations", "Advanced cause filtering"]
+    },
+    {
+      "slug": "medi-slot",
+      "name": "Medi Slot — Healthcare Appointment Booking",
+      "category": "Healthcare Web App",
+      "status": "Completed",
+      "period": "2025",
+      "tagline": "A booking platform that connects patients with providers and keeps scheduling friction-free.",
+      "repo": "https://github.com/manikyamgolla/Medislot",
+      "demo": "https://appointhub-go.lovable.app",
+      "tech": ["React", "Node.js", "Express", "MongoDB", "HTML", "CSS"],
+      "features": [
+        "Appointment booking flow",
+        "Doctor scheduling & availability",
+        "Patient dashboard",
+        "Search doctors by specialty"
+      ],
+      "overview": [
+        "Booking a doctor's appointment still means phone calls and guesswork for a lot of patients. Medi Slot gives patients a direct, searchable way to find a provider and book a slot without the back-and-forth.",
+        "Built on a MERN stack, it pairs a patient-facing booking flow with a scheduling model on the backend so provider availability stays accurate as bookings come in."
+      ],
+      "workflow": ["Problem scoping", "Scheduling data model", "Frontend build (React)", "Backend & database (Node/Express/MongoDB)", "Testing & demo"],
+      "challenges": [
+        "Keeping doctor availability accurate in real time as multiple patients book concurrently",
+        "Designing a booking flow simple enough for non-technical patients"
+      ],
+      "learnings": [
+        "How to model time-slot availability so double-bookings can't happen",
+        "Prioritizing a low-friction UI for a genuinely mixed-skill user base"
+      ],
+      "results": "Working end-to-end booking flow from doctor search through confirmed appointment.",
+      "future": ["Payment integration", "Real-time chat with providers", "Analytics dashboard for clinics"]
+    },
+    {
+      "slug": "hydro-hive",
+      "name": "Hydro Hive — Smart Irrigation System",
+      "category": "IoT / Agriculture",
+      "status": "Project Expo Winner",
+      "period": "Feb – Mar 2025",
+      "tagline": "An IoT system that monitors soil moisture and automates watering to conserve water in real time.",
+      "repo": null,
+      "demo": null,
+      "tech": ["Arduino", "IoT Sensors", "Embedded C"],
+      "features": [
+        "Real-time soil moisture monitoring",
+        "Automated irrigation triggering",
+        "Water-usage optimization logic"
+      ],
+      "overview": [
+        "Over-watering and under-watering both waste resources and hurt crop yield. Hydro Hive automates that decision using live soil-moisture data instead of a fixed schedule.",
+        "Built as a team project with embedded sensors feeding real-time moisture readings into logic that triggers irrigation only when needed — it won Project Expo for its practical, measurable water savings."
+      ],
+      "workflow": ["Problem research", "Sensor & hardware setup", "Embedded C firmware", "Irrigation logic", "Expo demo"],
+      "challenges": [
+        "Getting consistent, noise-free readings from soil-moisture sensors",
+        "Tuning thresholds so irrigation triggers matched real crop needs"
+      ],
+      "learnings": [
+        "Hands-on embedded systems work: sensor calibration, firmware logic, hardware-software integration",
+        "How to present a hardware project's impact in terms judges (and non-engineers) immediately understand"
+      ],
+      "results": "Won the Project Expo; demonstrated clear reduction in unnecessary watering during live testing.",
+      "future": ["Mobile app for remote monitoring", "Weather-data integration", "Multi-zone scaling"]
+    }
+  ],
+  "services": [
+    { "name": "Machine Learning Fundamentals", "detail": "Classification and regression basics, applied through hands-on projects and coursework." },
+    { "name": "Basic NLP", "detail": "Text preprocessing and TF-IDF-based classification, applied in the Fake News Detection project." },
+    { "name": "Data Analytics", "detail": "Exploratory analysis, visualization, and dashboarding with Python and Power BI." },
+    { "name": "Web Development", "detail": "Clean, responsive interfaces with HTML, CSS, and Python-backed logic." }
+  ],
+  "hobbies": [
+    { "name": "Morning Walks & Sun Exposure", "detail": "Daily wellness routine for sustained focus and energy." },
+    { "name": "Culinary Arts", "detail": "Experimenting with diverse recipes and cuisines." },
+    { "name": "Music Exploration", "detail": "Discovering music across genres." },
+    { "name": "Audio Media", "detail": "Podcasts and audiobooks for continuous learning." },
+    { "name": "Daily Journaling", "detail": "Reflective writing to track personal and professional growth." }
+  ]
+}
